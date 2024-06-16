@@ -1,3 +1,3 @@
 Sistema Conceitual
 
-![Sistema Conceitual do Projeto](https://githqub.com/ofelipp/mlops-study/doc/images/main/mlops-conceptual.png?raw=true)
+![Sistema Conceitual do Projeto](https://github.com/ofelipp/mlops-study/blob/main/doc/images/mlops-conceptual.png?raw=true)
