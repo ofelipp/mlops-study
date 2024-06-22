@@ -1,7 +1,5 @@
-import json
-
 from pydantic import BaseModel
-from typing import Dict, List, Union
+from typing import Dict, Union
 
 
 class Features(BaseModel):
@@ -11,4 +9,3 @@ class Features(BaseModel):
 class Prediction(BaseModel):
     prediction: Union[float, str]
     features: Dict[str, Union[str, int, float]]
-
